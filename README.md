@@ -61,8 +61,6 @@ A desktop application project focused on exploring and identifying chemical comp
 
 ## 📊 GitHub activity
 
-## 📊 GitHub Activity
-
 - 💻 Building ChemAnalyzer
 - 🧪 Exploring computational chemistry
 - 🧬 Learning bioinformatics
