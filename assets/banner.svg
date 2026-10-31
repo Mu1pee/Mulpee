@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mulpee — Developer profile banner</title>
+  <desc id="desc">Dark navy technology banner with cyan molecular geometry and developer branding.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080D18"/>
+      <stop offset="0.55" stop-color="#101B2B"/>
+      <stop offset="1" stop-color="#07111D"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#1D9BF0" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#1D9BF0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#8AB4D8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+  <ellipse cx="1170" cy="245" rx="390" ry="300" fill="url(#glow)"/>
+  <path d="M0 410 C300 350 420 510 740 430 S1200 330 1500 400" fill="none" stroke="#28B7D9" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 438 C330 378 460 530 760 455 S1200 365 1500 430" fill="none" stroke="#7C8CFF" stroke-opacity=".13" stroke-width="2"/>
+  <g stroke="#55C7E8" stroke-width="3" stroke-opacity=".65" fill="none">
+    <path d="M1080 150L1190 90L1300 150L1300 275L1190 338L1080 275Z"/>
+    <path d="M1190 90L1190 338M1080 150L1300 275M1300 150L1080 275"/>
+    <path d="M1300 150L1390 100L1450 160L1390 220L1300 150" stroke-opacity=".35"/>
+  </g>
+  <g fill="#71DDF4">
+    <circle cx="1080" cy="150" r="9"/><circle cx="1190" cy="90" r="11"/>
+    <circle cx="1300" cy="150" r="9"/><circle cx="1300" cy="275" r="9"/>
+    <circle cx="1190" cy="338" r="11"/><circle cx="1080" cy="275" r="9"/>
+    <circle cx="1390" cy="100" r="7"/><circle cx="1450" cy="160" r="7"/>
+  </g>
+  <g fill="#58A6FF" opacity=".22" filter="url(#soft)">
+    <circle cx="1190" cy="210" r="100"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="105" y="185" fill="#7DD3FC" font-size="22" letter-spacing="7">DEVELOPMENT • SCIENCE • TECHNOLOGY</text>
+    <text x="100" y="285" fill="#F0F6FC" font-size="92" font-weight="700" letter-spacing="-3">MULPEE</text>
+    <text x="105" y="345" fill="#B7C9DA" font-size="30" letter-spacing="2">Building at the intersection of code &amp; science.</text>
+    <text x="106" y="405" fill="#6EA8D9" font-size="20" letter-spacing="4">PYTHON  /  CHEMISTRY  /  BIOINFORMATICS</text>
+  </g>
+  <rect x="0" y="0" width="1500" height="500" fill="none" stroke="#6EA8D9" stroke-opacity=".18" stroke-width="2"/>
+</svg>
