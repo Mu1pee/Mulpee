@@ -61,23 +61,14 @@ A desktop application project focused on exploring and identifying chemical comp
 
 ## 📊 GitHub activity
 
-<div align="center">
+## 📊 GitHub Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mulpee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="Mulpee's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulpee&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages">
+- 💻 Building ChemAnalyzer
+- 🧪 Exploring computational chemistry
+- 🧬 Learning bioinformatics
+- 🚀 Improving my development skills
 
-</div>
-
----
-
-<div align="center">
-
-### 📡 Follow the ChemAnalyzer journey
-
-Development updates, experiments, and project progress:
-
-[**Telegram — @ChemAnalyzerDevLog**](https://t.me/ChemAnalyzerDevLog)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Mulpee-181717?style=for-the-badge&logo=github)](https://github.com/Mulpee)
 *Learning by building. One commit at a time.* ⚗️
 
 </div>
