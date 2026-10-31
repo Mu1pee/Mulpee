@@ -64,6 +64,7 @@ A desktop application project focused on exploring and identifying chemical comp
 - 🧪 Exploring computational chemistry
 - 🧬 Learning bioinformatics
 - 🚀 Improving my development skills
+
 [![GitHub](https://img.shields.io/badge/GitHub-Mulpee-181717?style=for-the-badge&logo=github)](https://github.com/Mulpee)
 
 *Learning by building. One commit at a time.* ⚗️
